@@ -1,0 +1,28 @@
+{
+  "health_parameters": [
+    {
+      "id": "1",
+      "text": "Check your B.P",
+      "when": "Every morning 7am",
+      "reminder": true
+    },
+    {
+      "id": "2",
+      "text": "Check your blood sugar level",
+      "when": "After checking your blood group",
+      "reminder": true
+    },
+    {
+      "id": "3",
+      "text": "Take your BP drugs depending on your results",
+      "when": "Immediately after checking your results",
+      "reminder": true
+    },
+    {
+      "id": "4",
+      "text": "Take morning jog/walk",
+      "when": "5 mins after your medication",
+      "reminder": true
+    }
+  ]
+}
