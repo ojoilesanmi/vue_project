@@ -22,8 +22,10 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+
+
 const port = process.env.PORT || 8080
-app.listen(port)
+app.listen(port);
 console.log(`app is listening on port: ${port}`)
 
 
